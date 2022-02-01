@@ -6,4 +6,6 @@
     <string name="greater">votre choix est trop grand</string>
     <string name="lesser">votre choix est trop petit</string>
     <string name="texte">Résultat</string>
+    <string name="recommencer">recommencer</string>
+    <string name="quitter">quitter</string>
 </resources>
