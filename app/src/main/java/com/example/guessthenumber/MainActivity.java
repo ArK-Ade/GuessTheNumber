@@ -45,7 +45,6 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(getIntent());
 
             }
-
         });
 
         quitter.setOnClickListener(new View.OnClickListener() {
@@ -54,7 +53,6 @@ public class MainActivity extends AppCompatActivity {
                 finish();
             }
         });
-
     }
 
     public void Check(int random, int choice, TextView edit, Button recommencer, Button quitter){
