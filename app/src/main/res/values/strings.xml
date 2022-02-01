@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Guess The Number</string>
+    <string name="essaie">Essaie !!</string>
+    <string name="button">Button</string>
+    <string name="goodNumber">Vous avez trouvez le bon chiffre</string>
+    <string name="greater">votre choix est trop grand</string>
+    <string name="lesser">votre choix est trop petit</string>
+    <string name="texte">Résultat</string>
+</resources>
